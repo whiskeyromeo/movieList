@@ -14,6 +14,7 @@ films by title or director.
 In order to run this project, a few steps must be performed:
   
 1.) Open a console/terminal to the project directory and type:
+
       ```
       python entertainment_center.py
       The project should run a script which generates a html file,
