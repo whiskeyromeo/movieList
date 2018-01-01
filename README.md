@@ -19,5 +19,6 @@ In order to run this project, a few steps must be performed:
       The project should run a script which generates a html file,
       which will be ready for viewing in a standard web browser.
       ```
+      
 2.) Open the fresh_tomatoes.html file in your favorite browser and enjoy!
       
